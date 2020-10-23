@@ -1,2 +1,2 @@
 # Scripts
-Scripts for my homey
+Scripts for different purposes
